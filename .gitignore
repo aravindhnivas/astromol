@@ -4,3 +4,5 @@
 .vscode/
 *.egg-info/
 astromol.bib
+dist/
+build/
