@@ -22,7 +22,7 @@ setup(
     extras_require={
         "dev": ["twine>=4.0.2"],
     },
-    version='2021.7.0',
+    version='2021.7',
     description='A Database of Molecules Detected in Space',
     long_description=long_description,
     long_description_content_type="text/markdown",
