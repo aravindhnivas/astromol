@@ -10,7 +10,7 @@ setup(
     install_requires=[
         'bibtexparser',
         'numpy',
-        'rdkit-pypi',
+        # 'rdkit',
         'matplotlib',
         'colour',
         'seaborn',
